@@ -1,2 +1,2 @@
-# ComputerNetworks-Lab
+# Computer Networks - Lab
 Computer Networks Lab Experiments
